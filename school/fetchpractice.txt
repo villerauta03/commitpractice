@@ -1,0 +1,2 @@
+new text file for the Fetching code from GitHub practice assignment
+this file serves no other purpose than to be used in the assignment
