@@ -1,3 +1,8 @@
+milk
+breAD
+FRIES
+SAUSAGE
+butter
 eggs
 bacon
 
